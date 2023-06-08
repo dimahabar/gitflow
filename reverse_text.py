@@ -1,3 +1,3 @@
 def reverse_text(value):
     '''функция текста'''
-    retern value(::-1)
+    return value[::-1]
